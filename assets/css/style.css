@@ -287,18 +287,18 @@ width:100%;
 margin-bottom:10px;
  }
     
- /*Increase size of div using .work class to increase image sizes/overlays */
+ /*Increase size of div using .work class to increase image sizes/overlays and then set width to 100% for images and overlays*/
 
 .work {
-  width: 550px;
+width: 550px;
 }
  .work img {
-  width:100%;
+width:100%;
   
   }
   
-  .work h3 {
-  width:100%;;
+.work h3 {
+width:100%;;
   }
     
     }
